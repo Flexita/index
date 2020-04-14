@@ -1,6 +1,8 @@
 <template>
-  <div class='wrapper'>
-
+  <div class='wrap'>
+    <h1>
+      wrap
+    </h1>
   </div>
 </template>
 
